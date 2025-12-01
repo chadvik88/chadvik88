@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chadvik88/](https://github.com/chadvik88/)
 
-- 💬 Ask me about **React · Next.js · Node.js · SQL · Python · GSAP · JEE Competitive Prep · SAT Prep Strategies**
+- 💬 Ask me about **React · Next.js · Node.js · SQL · Python · JEE Prep · SAT Prep**
 
 - 📫 How to reach me **charvikreddy32@gmail.com**
 
