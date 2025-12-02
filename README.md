@@ -10,7 +10,7 @@
 
 ## 🔮 About Me
 
-ardent **ML + Stats developer** building systems that fuse **AI, engineering, and clean architecture.**
+ardent *ML + Stats developer* building systems that fuse *AI, engineering, and clean architecture.*
 
 - 🌱 diving deep into → ML, DL, Data Engineering, AWS  
 - 🤝 down to collaborate on → LLM inference optimization, Vector search systems  
@@ -52,7 +52,7 @@ ardent **ML + Stats developer** building systems that fuse **AI, engineering, an
 
 ### 📦 Databases & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,nosql,aws,github,git" height="55" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,github,git" height="55" alt="Databases & Cloud" />
 </div>
 
 ### 🧠 ML & AI
