@@ -32,10 +32,6 @@ ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
   </a>
 </div>
 
-<p align="center">
-  <b>Discord:</b> <code>chadvik2008</code>
-</p>
-
 ---
 
 ## 🛠️ Arsenal
