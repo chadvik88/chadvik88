@@ -1,85 +1,102 @@
-<h2 align="left">Hi 👋! My name is Charvik, and I'm an ardent Machine Learning & Statistics developer from India.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hey+I'm+Charvik+🦇;ML+%7C+Statistics+%7C+Full-Stack+Developer;Building+AI+Systems+End-to-End;Making+Code+Look+Like+Magic+💫" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding"/>
+</p>
 
 ---
+
+## 🔮 About Me
+
+ardent **ML + Stats developer** building systems that fuse **AI, engineering, and clean architecture.**
+
+- 🌱 diving deep into → ML, DL, Data Engineering, AWS  
+- 🤝 down to collaborate on → LLM inference optimization, Vector search systems  
+- 💬 talk to me about → Python, Node.js, SQL, React, Next.js  
+- 👨‍💻 my work → [github.com/chadvik88](https://github.com/chadvik88)  
+- ⚡ random → 1000+ people read my poetry | ex-YouTuber | full-time builder  
+
+---
+
+## 🌐 Connect
 
 <div align="center">
-  <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chadvik88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-
-  <!-- Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadvik88&layout=compact&theme=dracula&langs_count=6" height="150" />
-</div>
-
----
-
-<!-- NEW COOL GIF (Batman + Coding vibe) -->
-<img align="right" height="170" src="https://i.pinimg.com/originals/34/51/18/345118d934dfc9a9e9f3b34f32fd76dc.gif" />
-
-### 🌱 Currently Learning
-- Machine Learning  
-- Deep Learning  
-- Data Analytics  
-- AWS Services  
-
-### 👯 Looking to Collaborate On
-- Stats + Data Engineering Pipelines  
-
-### 🤝 Looking for Help With
-- Optimizing LLM inference  
-- Vector-based search systems  
-
-### 👨‍💻 All My Projects
-🔗 https://github.com/chadvik88/
-
-### 💬 Ask Me About
-React • Next.js • Node.js • SQL • Python • JEE Prep • SAT Prep
-
-### 📫 Reach Me At
-📧 **charvikreddy32@gmail.com**
-
-### ⚡ Fun Fact
-I once built a YouTube channel, and now write poetry that 1000+ people have read.
-
----
-
-## 🚀 Tech Stack
-
-<!-- FIXED: removed broken icons -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="mailto:charvikreddy32@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
   <a href="https://www.linkedin.com/in/charvik-reddy-m-4052622a6/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/chadvik2008">
+    <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/>
+  </a>
+</div>
+
+<p align="center">
+  <b>Discord:</b> <code>chadvik2008</code>
+</p>
+
+---
+
+## 🛠️ Arsenal
+
+### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,go,rust" height="55" alt="Languages" />
+</div>
+
+### ⚙️ Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express" height="55" alt="Frameworks" />
+</div>
+
+### 📦 Databases & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,github,git" height="55" alt="Databases & Cloud" />
+</div>
+
+### 🧠 ML & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="55" alt="ML & AI" />
 </div>
 
 ---
 
-<br clear="both">
+## 📊 What I Know
 
-## 🐍 Working Snake Contribution Animation
+```text
+Python            ████████████████████░  95%
+Machine Learning  ██████████████████░░░  90%
+Node.js / Backend ████████████████░░░░░  85%
+React / Next.js   ███████████████░░░░░░  82%
+SQL / Databases   ████████████████░░░░░  88%
+Statistics        █████████████████░░░░  92%
+```
 
-> GitHub blocked the old “snake.svg” workflow, so here’s the **updated working one**:
+---
 
-```md
-![snake gif](https://github.com/chadvik88/chadvik88/blob/output/github-contribution-grid-snake.svg)
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chadvik88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadvik88&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chadvik88/chadvik88/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chadvik88/chadvik88/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chadvik88/chadvik88/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>building in public, one commit at a time 🔥</i>
+</p>
