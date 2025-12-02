@@ -42,17 +42,17 @@ ardent **ML + Stats developer** building systems that fuse **AI, engineering, an
 
 ### 💻 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,go,rust" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" height="55" alt="Languages" />
 </div>
 
 ### ⚙️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express" height="55" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="55" alt="Frameworks" />
 </div>
 
 ### 📦 Databases & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,github,git" height="55" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,nosql,aws,github,git" height="55" alt="Databases & Cloud" />
 </div>
 
 ### 🧠 ML & AI
@@ -98,5 +98,5 @@ Statistics        █████████████████░░░�
 ---
 
 <p align="center">
-  <i>building in public, one commit at a time 🔥</i>
+  <i>Your most unhappy customers are your greatest source of learning!</i>
 </p>
