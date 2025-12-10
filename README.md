@@ -15,7 +15,7 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
 - Talk to me about → Python, Node.js, SQL, React, Next.js  
 - My work → [github.com/chadvik88](https://github.com/chadvik88)  
 - Random → 1000+ people read my poetry | ex-YouTuber | full-time builder
-- Author of def corin() → A book that will teach you how to code from nothing - publishing on KDP and Lulu soon!
+- Author of def corin() → Lulu : https://www.lulu.com/shop/charvik-reddy-mukku/def-corin/ebook/product-7kj2myg.html?q=def+corin&page=1&pageSize=4
 
 # ***Connect with me***
 
