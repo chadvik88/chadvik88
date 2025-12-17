@@ -14,7 +14,7 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
 - Down to collaborate on → LLM inference optimization, Vector search systems  
 - Talk to me about → Python, Node.js, SQL, React, Next.js  
 - My work → [github.com/chadvik88](https://github.com/chadvik88)  
-- Random → 1000+ people read my poetry | ex-YouTuber | full-time builder
+- Random → 1000+ people read my poetry 
 - Author of def corin(): (All profits driven to charity) → KDP: https://amzn.in/d/dvdQj77, available on Lulu, B&N, Apple, Google as well
 
 # ***Connect with me***
