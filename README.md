@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7A6p0jNj9t9wk/giphy.gif" width="500" alt="coding"/>
+  <img src="https://media.giphy.com/media/7A6p0jNj9t9wk/giphy.gif" width="300" alt="coding"/>
 </p>
 
 # ***About Me***
