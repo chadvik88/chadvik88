@@ -10,7 +10,7 @@
 
 Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and clean architecture.*
 
-- Diving deep into → ML, DL, Data Engineering, AWS  
+- Diving deep into → ML, NLP, DL, Data Engineering, AWS  
 - Down to collaborate on → LLM inference optimization, Vector search systems  
 - Talk to me about → Python, Node.js, SQL, React, Next.js  
 - My work → [github.com/chadvik88](https://github.com/chadvik88)  
