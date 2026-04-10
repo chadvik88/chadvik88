@@ -16,6 +16,7 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
 - My work → [github.com/chadvik88](https://github.com/chadvik88)  
 - Random → 1000+ people read my poetry 
 - Author of def corin(): (All profits driven to charity, #1 Hot New Releases; #8 Children's sci-fi books) → Amazon: https://amzn.in/d/dvdQj77, available on Lulu, B&N, Apple, Google as well
+- Research on novel methodology cheminformatics currently under peer review
 
 # ***Connect with me***
 
