@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hiiii+I'm+Charvik;Interned+at+an+NVIDIA-backed+company!;ML+%7C+Statistics+%7C+Full-Stack+Developer;Building+AI+Models+End-to-End;AI+agents+%7C+Mock-ups+%7C+API+Design;Making+Code+Look+Like+Magic+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hiiii+I'm+Charvik;Interned+at+an+NVIDIA-backed+company!;ML+%7C+Statistics+%7C+AI+Systems+Developer;Building+AI+Models+End-to-End;AI+agents+%7C+Mock-ups+%7C+API+Design;Making+Code+Look+Like+Magic+💫" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
 - Talk to me about → Python, Node.js, SQL, React, Next.js  
 - My work → [github.com/chadvik88](https://github.com/chadvik88)  
 - Random → 1000+ people read my poetry 
-- Author of def corin(): (All profits driven to charity, #1 Hot New Releases; #8 Children's sci-fi books) → Amazon: https://amzn.in/d/dvdQj77, available on Lulu, B&N, Apple, Google as well
+- Author of def corin(): (All profits driven to charity, #1 Hot New Releases; #8 Children's sci-fi books) → Amazon: https://amzn.in/d/dvdQj77; available on Lulu, B&N, Apple, Google as well
 - Research on novel methodology currently under peer review at the Journal of Cheminformatics
 
 # ***Connect with me***
