@@ -22,7 +22,7 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
 # ***Connect with me***
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/charvik-reddy-m-4052622a6/">
+  <a href="https://www.linkedin.com/in/charvik-reddy-4052622a6/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
