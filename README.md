@@ -52,17 +52,6 @@ Ardent *ML + Stats developer* building systems that fuse *AI, engineering, and c
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="55" alt="ML & AI" />
 </div>
 
-# ***What I Know***
-
-```text
-Python            ████████████████████░  95%
-Machine Learning  ██████████████████░░░  90%
-Node.js / Backend ████████████████░░░░░  85%
-React / Next.js   ███████████████░░░░░░  82%
-SQL / Databases   ████████████████░░░░░  88%
-Statistics        █████████████████░░░░  92%
-```
-
 # ***🐍 Contribution Snake***
 
 <picture>
